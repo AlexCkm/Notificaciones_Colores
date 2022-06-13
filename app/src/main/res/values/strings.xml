@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="Toast">Toast</string>
+    <string name="Gravity">Gravity</string>
+    <string name="SnackBar">SnackBar</string>
+    <string name="Custom">Custom</string>
+    <string name="Blanco">blanco</string>
+    <string name="morado">Morado</string>
+    <string name="Azul">Azul</string>
+</resources>
